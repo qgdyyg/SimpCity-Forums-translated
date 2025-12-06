@@ -1,7 +1,7 @@
-代码及图标完全由豆包ai生成，简单测试无异常后发布
+代码完全由豆包ai生成，简单测试无异常后发布
 
-[南+ South Plus](https://south-plus.net)
+[SimpCity Forums](https://simp.city)
 
-1. 拓展介绍：记录南+ South Plus帖子浏览记录（含标题、链接、访问时间、预览图），支持导出/导入，按最后访问时间排序。
-2. 安装：Chrome打开开发者模式，加载已解压的拓展文件夹。
-3. 使用：浏览帖子自动记录，点击拓展图标可查看、导出、导入或清空记录。
+自动汉化SimpCity论坛文本，支持日期转换、12小时制转24小时制，适配所有含simpcity字符的域名
+
+点击安装[Greasyfork](<https://update.greasyfork.org/scripts/558119/SimpCity Forums 汉化.user.js>)
